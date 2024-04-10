@@ -1,0 +1,7 @@
+# cryptography
+fastecdsa
+gmpy2
+cryptography
+
+# http
+requests
